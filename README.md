@@ -1,2 +1,2 @@
 # Battle
-A simple battle word game in c++
+A simple word game in c++
